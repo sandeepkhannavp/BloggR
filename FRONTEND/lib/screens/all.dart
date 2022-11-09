@@ -1,0 +1,9 @@
+export 'login_page.dart';
+export 'home_page.dart';
+export 'signup_page.dart';
+export 'movie_page.dart';
+export 'test_page.dart';
+export 'posts_page.dart';
+export 'comment_page.dart';
+export 'user_page.dart';
+export 'post_page.dart';
